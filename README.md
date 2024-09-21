@@ -1,4 +1,4 @@
-# Top 10 Ethereum NFTs with Dune Analytics API
+# Analyzing the Top 10 Ethereum NFTs Using Dune API
 
 You can find the complete guide on the Dune blog [here](https://dune.com/blog/complete-guide-analyzing-the-top-10-ethereum-nfts-using-dune-api).
 
