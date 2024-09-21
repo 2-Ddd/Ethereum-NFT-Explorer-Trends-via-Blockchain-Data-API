@@ -2,7 +2,7 @@
 
 You can find the complete guide on the Dune blog [here](https://dune.com/blog/complete-guide-analyzing-the-top-10-ethereum-nfts-using-dune-api).
 
-This python script integrates with the Dune Analytics API to retrieve data about the top 10 NFT collections by volume within a specified date range. It prompts the user to input the start and end dates for the query, loads the DUNE API key from a `.env` file, and runs the query using the `dune_client` library. It then displays the results DataFrame and creates visualizations using Seaborn for better data representation.
+The guide demonstrates how to use Dune Analytics to analyze Ethereum NFT trading volumes with custom SQL queries. It walks through setting up Python dependencies, creating a Dune query, and using the Dune API to retrieve and visualize the data with libraries like Seaborn and Matplotlib. The SQL query focuses on the nft.trades table, pulling data on NFT collections and sales volumes, which are then visualized in charts.
 
 You can find the sql query that this script runs in `SQL QUERY/query_sql.sql` file.
 
